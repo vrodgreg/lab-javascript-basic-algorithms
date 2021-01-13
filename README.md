@@ -22,8 +22,8 @@ Ready to start?
 - Go to [repl.it](https://repl.it/languages/nodejs) and create an account (or login if you have one)
 - Type this in the *Code Editor* (left panel)
 
-  ```javascript
-  console.log("I'm ready!");
+  ```jav  console.log("I'm ready!");ascript
+
   ```
 - Press `run ►`
 - If you can see the message in the right side panel, you are really ready!
@@ -111,3 +111,10 @@ Create a new variable `phraseToCheck` and have it contain some string value. Wri
 
 
 __Happy coding!__ :heart:
+
+
+else if (hacker1.length > hacker2.length) {
+      console.log(`The driver has the longest name. It has ${length.hacker1} characters!`)
+    } else {
+      console.log(`Wow, you both have equally long names ${length.hacker1} characters!`)
+    }
